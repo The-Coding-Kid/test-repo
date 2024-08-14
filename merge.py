@@ -1,1 +1,2 @@
-print("literaluy anything else")
+for i in range(10):
+    print(i) 
